@@ -8,7 +8,7 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
         String continuar;
 
-        System.out.println("Bem-Vindo ao conversor de moedas!" +
+        System.out.println("Bem-Vindo ao conversor de moedas!\n" +
         "*********************************\n" +
         "Esse conversor aceita:\n" +
         "Reais (BRL)\n" +
