@@ -12,8 +12,8 @@
 ---
 ### Pré-requisitos:
  - _Ter o java instalado em sua máquina, a partir do `Java 8`;_
- - Adicionar a biblioteca Gson em seu `Project Structure`, link para acesso (https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1) versão 2.10.1;
- - API utilizada (https://www.exchangerate-api.com/);
+ - _Adicionar a biblioteca Gson em seu `Project Structure`, link para acesso (https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1) versão 2.10.1;_
+ - _API utilizada (https://www.exchangerate-api.com/);_
 
 ---
 ### Objetivo do projeto:
