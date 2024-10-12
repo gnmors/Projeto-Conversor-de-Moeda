@@ -7,7 +7,7 @@
 #### 🚩 G7 ONE | Java e Orientação a Objetos | Java: Praticando Java : Challenge conversor de moedas 🚩
 #### 🌎 [@Alura](https://www.alura.com.br/) | [@One](https://www.oracle.com/br/)<br>
 
-*💵 Projeto Conversor de moedas proposto pela aulas do curso 💵*
+*💵 Projeto Conversor de moedas proposto pela Alura no curso 💵*
 
 ---
 ### Pré-requisitos:
